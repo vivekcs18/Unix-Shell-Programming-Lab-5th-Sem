@@ -1,2 +1,2 @@
 # Unix-Shell-Programming-Lab-5th-Sem
-Check the folders 
+Shell Scripts executed during Unix Lab session
